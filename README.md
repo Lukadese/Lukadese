@@ -1,12 +1,12 @@
 # Hi there, I'm Luka! 👋🇧🇪 
 
-I'm a passionate **Student Software Developer** from Belgium, currently pursuing my Bachelor's degree at **HOGENT**.
-I have a strong focus on building **web applications** and enjoy developing user-friendly and performant software solutions.
+I'm a passionate **Full-Stack Developer** and **MSc Student in Industrial Engineering: Computer Science** at **Ghent University**. With a Bachelor's degree in Applied Computer Science as my foundation, I focus on building scalable web applications and clean, maintainable software solutions.
 
-* 🎓 Studying: **Bachelor of Applied Science - Informatics @ HOGENT** (Sept 2022 - June 2025)
-* 🔭 Interning as **.NET Developer @ Bel&Bo**, working on a planning tool with **.NET (C#) & Blazor**.
+* 🎓 Currently: **Bridging programme - MSc Industrial Engineering: Computer Science @ Ghent University** (Started Sept 2025)
+* 🎓 background: **Bachelor of Applied Science - Informatics @ HOGENT** (Sept 2022 - June 2025)
+* 🔭 Working as: **Student Software Developer @ Bel&Bo**, developing internal tools using **.NET (C#) and Blazor**.
 * 🌱 Always eager to learn and tackle new challenges in software development.
-* 🤝 Enjoy collaborating in **Agile/Scrum** environments.
+* 🤝 Values: **Agile/Scrum** collaboration and making a real impact through technology.
 
 
 
